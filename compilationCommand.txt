@@ -1,0 +1,1 @@
+g++ socStudy1_analysis.cpp ./extract.cpp -lgsl -lgslcblas -o socStudy1_analysis.out
